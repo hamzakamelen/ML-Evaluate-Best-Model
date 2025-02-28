@@ -1,6 +1,16 @@
-## Evaluation of Regression & Classification Models
+# **Evaluation of Regression & Classification Models**
 
-Author: [Hamza Kamelen](https://www.linkedin.com/in/hamzakamelen)
+<h1 style="font-family: 'poppins'; font-weight: bold; color: white;">👨‍💻Author: Hamza Kamelen</h1>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/hamzakamelen) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/hamzakamelen) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamzakamelen)  
+
+[![YouTube](https://img.shields.io/badge/YouTube-Profile-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@hamzakamelen1944) 
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/hamzakamelen)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=email)](mailto:hamzakamelen.dev@gmail.com)
+
+
 ### Introduction
 
 The primary goal of this notebook is to evaluate the performance of regression and classification models, both regression and classification models is used to identify the accurate model for prediction the target variable. This notebook is divided into two parts, the first part is for regression models and the second part is for classification models. The dataset used in this notebook is the `Diamond Dataset` which is available in the `seaborn` library. The target variable for regression is `price` and for classification is `cut`. 
